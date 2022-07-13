@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": "Makes mobs drop their equipment when killed. Version 1.0"
+    }
+}
